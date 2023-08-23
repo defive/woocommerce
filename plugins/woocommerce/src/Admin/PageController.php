@@ -440,7 +440,7 @@ class PageController {
 			'capability' => 'view_woocommerce_reports',
 			'path'       => '',
 			'icon'       => '',
-			'position'   => null,
+			'position'   => 0,
 			'js_page'    => true,
 		);
 
